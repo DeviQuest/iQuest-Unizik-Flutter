@@ -1,0 +1,80 @@
+{
+  "project_info": {
+    "project_number": "218720612925",
+    "firebase_url": "https://iquest-unizik-b1ab7-default-rtdb.firebaseio.com",
+    "project_id": "iquest-unizik-b1ab7",
+    "storage_bucket": "iquest-unizik-b1ab7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:218720612925:android:dafa7c24d2de22eef8f054",
+        "android_client_info": {
+          "package_name": "com.app.iquest_unizik"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "218720612925-eobco5rdfgrl504osd62et5dmdn948c9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.app.iquest_unizik",
+            "certificate_hash": "f7a54fb680e38195f506a4f687b12485a762b21a"
+          }
+        },
+        {
+          "client_id": "218720612925-opf4uqhcnutnmth9h5f4rplk2vn4itl5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.app.iquest_unizik",
+            "certificate_hash": "c74be73779be4010a654517f8b280fd2f0c672ce"
+          }
+        },
+        {
+          "client_id": "218720612925-pp6kd17mem2tda2tm5asd9lapda4885d.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.app.iquest_unizik",
+            "certificate_hash": "830d784eb79d53d51a2c5c16dc4df081eb00a06e"
+          }
+        },
+        {
+          "client_id": "218720612925-rhir6d67uke83kr3dh6mf4c11q2937uk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.app.iquest_unizik",
+            "certificate_hash": "4d0b0310b5ecef461e787c54494eca33b390d1f1"
+          }
+        },
+        {
+          "client_id": "218720612925-rksggf0cepb7dnii9j6a5el6kh5o2282.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.app.iquest_unizik",
+            "certificate_hash": "321d3397267144baebf118b09f5d73ef2ccbdfa4"
+          }
+        },
+        {
+          "client_id": "218720612925-3ekrhka84vkhrgh62nkg9vdgo8unagus.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZivAvSP87e1KUtCD20Zapu_brkX8Ckss"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "218720612925-3ekrhka84vkhrgh62nkg9vdgo8unagus.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
