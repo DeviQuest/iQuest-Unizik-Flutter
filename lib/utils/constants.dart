@@ -6,6 +6,7 @@ class Constants {
   static const String CURRENT_SEMESTER = 'Current semester';
   static const String FIRST_SEMESTER = '1';
   static const String SECOND_SEMESTER = '2';
+  static const String ONESIGNAL_APP_ID = '5bf355af-ecb3-42ef-a9da-cd049b9776cf';
 
   //Faculties
   static const String ARTS = "Arts";

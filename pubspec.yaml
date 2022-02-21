@@ -44,6 +44,7 @@ dependencies:
   google_sign_in: ^5.2.3
   progress_dialog_null_safe: ^1.0.7
   device_info_plus: ^3.2.2
+  onesignal_flutter: ^3.0.0
 
 
 dev_dependencies:
